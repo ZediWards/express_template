@@ -1,0 +1,13 @@
+{
+  "name": "express_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node sever",
+    "dev": "node --watch --env-file=.env server"
+  },
+  "author": "",
+  "license": "ISC"
+}
